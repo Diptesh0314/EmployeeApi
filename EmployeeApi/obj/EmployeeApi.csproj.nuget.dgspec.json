@@ -1,0 +1,306 @@
+{
+  "format": 1,
+  "restore": {
+    "E:\\Dot Net Projects\\Core\\EmployeeApiSln\\EmployeeApi\\EmployeeApi.csproj": {}
+  },
+  "projects": {
+    "E:\\Dot Net Projects\\Core\\EmployeeApiSln\\EmployeeApi\\EmployeeApi.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Dot Net Projects\\Core\\EmployeeApiSln\\EmployeeApi\\EmployeeApi.csproj",
+        "projectName": "EmployeeApi",
+        "projectPath": "E:\\Dot Net Projects\\Core\\EmployeeApiSln\\EmployeeApi\\EmployeeApi.csproj",
+        "packagesPath": "C:\\Users\\dipte\\.nuget\\packages\\",
+        "outputPath": "E:\\Dot Net Projects\\Core\\EmployeeApiSln\\EmployeeApi\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\dipte\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "E:\\Dot Net Projects\\Core\\EmployeeApiSln\\EmployeeBL\\EmployeeBL.csproj": {
+                "projectPath": "E:\\Dot Net Projects\\Core\\EmployeeApiSln\\EmployeeBL\\EmployeeBL.csproj"
+              },
+              "E:\\Dot Net Projects\\Core\\EmployeeApiSln\\EmployeeRepo\\EmployeeRepo.csproj": {
+                "projectPath": "E:\\Dot Net Projects\\Core\\EmployeeApiSln\\EmployeeRepo\\EmployeeRepo.csproj"
+              },
+              "E:\\Dot Net Projects\\Core\\EmployeeApiSln\\Entity\\Entity.csproj": {
+                "projectPath": "E:\\Dot Net Projects\\Core\\EmployeeApiSln\\Entity\\Entity.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.25, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.5.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\Dot Net Projects\\Core\\EmployeeApiSln\\EmployeeBL\\EmployeeBL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Dot Net Projects\\Core\\EmployeeApiSln\\EmployeeBL\\EmployeeBL.csproj",
+        "projectName": "EmployeeBL",
+        "projectPath": "E:\\Dot Net Projects\\Core\\EmployeeApiSln\\EmployeeBL\\EmployeeBL.csproj",
+        "packagesPath": "C:\\Users\\dipte\\.nuget\\packages\\",
+        "outputPath": "E:\\Dot Net Projects\\Core\\EmployeeApiSln\\EmployeeBL\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\dipte\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "E:\\Dot Net Projects\\Core\\EmployeeApiSln\\EmployeeRepo\\EmployeeRepo.csproj": {
+                "projectPath": "E:\\Dot Net Projects\\Core\\EmployeeApiSln\\EmployeeRepo\\EmployeeRepo.csproj"
+              },
+              "E:\\Dot Net Projects\\Core\\EmployeeApiSln\\Entity\\Entity.csproj": {
+                "projectPath": "E:\\Dot Net Projects\\Core\\EmployeeApiSln\\Entity\\Entity.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\Dot Net Projects\\Core\\EmployeeApiSln\\EmployeeRepo\\EmployeeRepo.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Dot Net Projects\\Core\\EmployeeApiSln\\EmployeeRepo\\EmployeeRepo.csproj",
+        "projectName": "EmployeeRepo",
+        "projectPath": "E:\\Dot Net Projects\\Core\\EmployeeApiSln\\EmployeeRepo\\EmployeeRepo.csproj",
+        "packagesPath": "C:\\Users\\dipte\\.nuget\\packages\\",
+        "outputPath": "E:\\Dot Net Projects\\Core\\EmployeeApiSln\\EmployeeRepo\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\dipte\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "E:\\Dot Net Projects\\Core\\EmployeeApiSln\\Entity\\Entity.csproj": {
+                "projectPath": "E:\\Dot Net Projects\\Core\\EmployeeApiSln\\Entity\\Entity.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.25, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.25, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[6.0.25, )"
+            },
+            "Microsoft.Extensions.Configuration": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Microsoft.Extensions.Configuration.FileExtensions": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Microsoft.Extensions.Configuration.Json": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\Dot Net Projects\\Core\\EmployeeApiSln\\Entity\\Entity.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Dot Net Projects\\Core\\EmployeeApiSln\\Entity\\Entity.csproj",
+        "projectName": "Entity",
+        "projectPath": "E:\\Dot Net Projects\\Core\\EmployeeApiSln\\Entity\\Entity.csproj",
+        "packagesPath": "C:\\Users\\dipte\\.nuget\\packages\\",
+        "outputPath": "E:\\Dot Net Projects\\Core\\EmployeeApiSln\\Entity\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\dipte\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

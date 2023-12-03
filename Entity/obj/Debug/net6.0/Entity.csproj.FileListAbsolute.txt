@@ -1,0 +1,11 @@
+E:\Dot Net Projects\Core\EmployeeApiSln\Entity\bin\Debug\net6.0\Entity.deps.json
+E:\Dot Net Projects\Core\EmployeeApiSln\Entity\bin\Debug\net6.0\Entity.dll
+E:\Dot Net Projects\Core\EmployeeApiSln\Entity\bin\Debug\net6.0\Entity.pdb
+E:\Dot Net Projects\Core\EmployeeApiSln\Entity\obj\Debug\net6.0\Entity.GeneratedMSBuildEditorConfig.editorconfig
+E:\Dot Net Projects\Core\EmployeeApiSln\Entity\obj\Debug\net6.0\Entity.AssemblyInfoInputs.cache
+E:\Dot Net Projects\Core\EmployeeApiSln\Entity\obj\Debug\net6.0\Entity.AssemblyInfo.cs
+E:\Dot Net Projects\Core\EmployeeApiSln\Entity\obj\Debug\net6.0\Entity.csproj.CoreCompileInputs.cache
+E:\Dot Net Projects\Core\EmployeeApiSln\Entity\obj\Debug\net6.0\Entity.dll
+E:\Dot Net Projects\Core\EmployeeApiSln\Entity\obj\Debug\net6.0\refint\Entity.dll
+E:\Dot Net Projects\Core\EmployeeApiSln\Entity\obj\Debug\net6.0\Entity.pdb
+E:\Dot Net Projects\Core\EmployeeApiSln\Entity\obj\Debug\net6.0\ref\Entity.dll

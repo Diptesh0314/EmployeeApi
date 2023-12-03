@@ -1,0 +1,17 @@
+E:\Dot Net Projects\Core\EmployeeApiSln\EmployeeRepo\bin\Debug\net6.0\EmployeeRepo.deps.json
+E:\Dot Net Projects\Core\EmployeeApiSln\EmployeeRepo\bin\Debug\net6.0\EmployeeRepo.runtimeconfig.json
+E:\Dot Net Projects\Core\EmployeeApiSln\EmployeeRepo\bin\Debug\net6.0\EmployeeRepo.dll
+E:\Dot Net Projects\Core\EmployeeApiSln\EmployeeRepo\bin\Debug\net6.0\EmployeeRepo.pdb
+E:\Dot Net Projects\Core\EmployeeApiSln\EmployeeRepo\bin\Debug\net6.0\Entity.dll
+E:\Dot Net Projects\Core\EmployeeApiSln\EmployeeRepo\bin\Debug\net6.0\Entity.pdb
+E:\Dot Net Projects\Core\EmployeeApiSln\EmployeeRepo\obj\Debug\net6.0\EmployeeRepo.csproj.AssemblyReference.cache
+E:\Dot Net Projects\Core\EmployeeApiSln\EmployeeRepo\obj\Debug\net6.0\EmployeeRepo.GeneratedMSBuildEditorConfig.editorconfig
+E:\Dot Net Projects\Core\EmployeeApiSln\EmployeeRepo\obj\Debug\net6.0\EmployeeRepo.AssemblyInfoInputs.cache
+E:\Dot Net Projects\Core\EmployeeApiSln\EmployeeRepo\obj\Debug\net6.0\EmployeeRepo.AssemblyInfo.cs
+E:\Dot Net Projects\Core\EmployeeApiSln\EmployeeRepo\obj\Debug\net6.0\EmployeeRepo.csproj.CoreCompileInputs.cache
+E:\Dot Net Projects\Core\EmployeeApiSln\EmployeeRepo\obj\Debug\net6.0\EmployeeRepo.csproj.CopyComplete
+E:\Dot Net Projects\Core\EmployeeApiSln\EmployeeRepo\obj\Debug\net6.0\EmployeeRepo.dll
+E:\Dot Net Projects\Core\EmployeeApiSln\EmployeeRepo\obj\Debug\net6.0\refint\EmployeeRepo.dll
+E:\Dot Net Projects\Core\EmployeeApiSln\EmployeeRepo\obj\Debug\net6.0\EmployeeRepo.pdb
+E:\Dot Net Projects\Core\EmployeeApiSln\EmployeeRepo\obj\Debug\net6.0\EmployeeRepo.genruntimeconfig.cache
+E:\Dot Net Projects\Core\EmployeeApiSln\EmployeeRepo\obj\Debug\net6.0\ref\EmployeeRepo.dll
